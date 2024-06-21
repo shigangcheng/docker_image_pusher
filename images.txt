@@ -1,5 +1,6 @@
-#mysql
+#redis
 docker.io/bitnami/redis:5.0.14-debian-10-r173
+docker.io/bitnami/redis-cluster:5.0.14-debian-10-r172
 
 #支持指定架构
 --platform=linux/amd64
