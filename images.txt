@@ -1,12 +1,7 @@
 #mysql
 docker.io/bitnami/mysql:8.4.0-debian-12-r3
-docker.io/bitnami/mysql:5.7.39
-
-#rancher
-rancher/rancher:v2.8.5
-
-#ingress-nginx/controller
-asia.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1@sha256:0e072dddd1f7f8fc8909a2ca6f65e76c5f0d2fcfb8be47935ae3457e8bbceb20
+docker.io/bitnami/mysql:8.0.37-debian-12-r3
+docker.io/bitnami/mysql:5.7.43-debian-11-r73
 
 #支持指定架构
 --platform=linux/amd64
