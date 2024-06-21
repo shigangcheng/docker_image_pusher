@@ -1,7 +1,5 @@
 #mysql
-docker.io/bitnami/mysql:8.4.0-debian-12-r3
-docker.io/bitnami/mysql:8.0.37-debian-12-r3
-docker.io/bitnami/mysql:5.7.43-debian-11-r73
+docker.io/bitnami/redis:5.0.14-debian-10-r173
 
 #支持指定架构
 --platform=linux/amd64
