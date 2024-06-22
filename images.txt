@@ -1,6 +1,7 @@
-#MySQL
-docker.io/bitnami/mysql:5.7.26
-prom/mysqld-exporter
+#Redis
+docker.io/bitnami/redis-cluster:5.0.9-debian-10-r10
+docker.io/bitnami/redis-exporter:1.6.0-debian-10-r0
+docker.io/bitnami/minideb:buster
 
 #支持指定架构
 --platform=linux/amd64
