@@ -1,6 +1,6 @@
 #MySQL
 docker.io/bitnami/mysql:5.7.26
-docker.io/prom/mysqld-exporter:v0.10.0
+docker.io/prom/mysqld-exporter:0.15.1
 
 #支持指定架构
 --platform=linux/amd64
