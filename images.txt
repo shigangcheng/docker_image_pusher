@@ -1,9 +1,6 @@
-#mongodb
-docker.io/bitnami/mongodb:6.0.10-debian-11-r8
-docker.io/bitnami/nginx:1.25.2-debian-11-r32
-docker.io/bitnami/kubectl:1.25.14-debian-11-r5
-docker.io/bitnami/os-shell:11-debian-11-r72
-docker.io/bitnami/mongodb-exporter:0.39.0-debian-11-r106
+#MySQL
+docker.io/bitnami/mysql:5.7.26
+docker.io/prom/mysqld-exporter:v0.10.0
 
 #支持指定架构
 --platform=linux/amd64
