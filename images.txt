@@ -1,7 +1,8 @@
-#Redis
-docker.io/bitnami/redis-cluster:5.0.9-debian-10-r10
-docker.io/bitnami/redis-exporter:1.6.0-debian-10-r0
-docker.io/bitnami/minideb:buster
+#ingress-nginx
+registry.k8s.io/ingress-nginx/controller:v1.10.1
+registry.k8s.io/ingress-nginx/opentelemetry:v20230721-3e2062ee5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+registry.k8s.io/defaultbackend-amd64:v1.5
 
 #支持指定架构
 --platform=linux/amd64
