@@ -1,5 +1,5 @@
-#velero-plugin-for-azure
-velero/velero-plugin-for-microsoft-azure:v1.10.0
+#nginx/nginx-ingress
+nginx/nginx-ingress:2.1.0
 
 #支持指定架构
 #--platform=linux/amd64
