@@ -1,5 +1,4 @@
-#nginx/nginx-ingress
-nginx/nginx-ingress:2.1.0
+velero/velero:release-1.17
 
 #支持指定架构
 #--platform=linux/amd64
