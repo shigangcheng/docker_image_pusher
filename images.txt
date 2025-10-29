@@ -1,4 +1,4 @@
-velero/velero:release-1.17
+velero/velero:v1.17.0
 
 #支持指定架构
 #--platform=linux/amd64
