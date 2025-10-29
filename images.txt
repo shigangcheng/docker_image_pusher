@@ -1,4 +1,5 @@
 velero/velero:v1.17.0
+velero/velero-plugin-for-microsoft-azure:v1.13.0
 
 #支持指定架构
 #--platform=linux/amd64
